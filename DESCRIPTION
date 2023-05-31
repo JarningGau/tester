@@ -2,7 +2,7 @@ Package: tester
 Title: Create R Package In A Professional Way Tutorial
 Version: 0.0.1
 Authors@R: 
-    pperson(given = "Jarning",
+    person(given = "Jarning",
            family = "Gau",
            role = c("aut", "cre"),
            email = "jarninggau@gmail.com")
