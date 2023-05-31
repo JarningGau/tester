@@ -9,6 +9,6 @@
 #' @examples
 #' library(tester)
 #' add(1, 2)
-add<-function(a,b) {
-  a+b
+add <- function(a, b) {
+  a + b
 }
