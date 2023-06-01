@@ -1,5 +1,4 @@
-url: ~
+url: https://jarninggau.github.io/tester
 template:
   bootstrap: 5
   bootswatch: cerulean
-lang: zh_CN
