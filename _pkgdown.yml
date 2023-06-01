@@ -1,4 +1,4 @@
 url: https://jarninggau.github.io/tester
 template:
   bootstrap: 5
-  bootswatch: Flatly
+  bootswatch: flatly
