@@ -3,7 +3,7 @@ pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   my-vignette: my-vignette.html
-last_built: 2023-06-01T15:43Z
+last_built: 2023-06-08T04:13Z
 urls:
   reference: https://jarninggau.github.io/tester/reference
   article: https://jarninggau.github.io/tester/articles
